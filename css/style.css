@@ -1,0 +1,120 @@
+header{
+	background: url('../image/a.jpg');
+	background-repeat: no-repeat;
+	
+	background-size: cover;
+	
+
+}
+
+
+.vh-100{
+min-height: 100vh;
+}
+.nav-link{
+	font-size: 12px;
+	margin-left:18px;
+}
+
+.head-content a{
+border: 2px solid white;
+    color: white;
+    padding: 5px 10px;
+    font-size: small;
+    text-decoration: none;
+}
+.third-part{
+	background: #F7F7F7;
+}
+.small-text{
+	color: #716868;
+}
+.text-bold{
+	color: #505250;
+}
+
+.icon-box a{
+	color: black;
+	
+
+}
+.icon-box a i{
+	border: 2px solid black;
+font-size: 20px;
+padding: 10px;
+border-radius: 50px;
+
+
+}
+
+.brick-section {
+    background: url(../image/x.jpg);
+    background-repeat: no-repeat;
+    height:100vh;
+    background-size: cover;
+
+}
+
+.our-blog{
+	background: #f1f1f1;
+}
+.round-edge{
+	background: #1ABC9C;
+	padding: 1px 15px;
+	position: absolute;
+	color: white;
+	border-radius: 10px;
+	right: 20px;
+	top: 20px;
+	
+
+}
+.img-card img{
+	position: relative;
+
+}
+.img-card{
+	background: white;
+	margin-bottom: 100px;
+}
+.img-card a{
+	color: #1ABC9C;
+	text-decoration: none;
+}
+.meat-team{
+	background: #f1f1f1;
+}
+.social-media{
+	padding: 5px;
+	border-radius: 100px;
+	width: 100%;
+	height: 100%;
+	
+}
+.social-media i{
+	margin-bottom: 5px;
+}
+.footer-nav{
+	background:url(../image/map.png);
+	background-repeat: no-repeat;
+    height:50vh;
+    
+
+    
+}
+.list-icon {
+list-style: none;
+padding-left: 0;
+}
+.list-icon li{
+margin-bottom: 10px;
+    margin-left: 20px;
+}
+.list-icon i{
+font-size: 15px;
+    margin-right: 14px;
+    margin-left: -20px;
+}
+.post-thumbnil-content a{
+	color: black;
+}
